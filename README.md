@@ -5,6 +5,9 @@ A cada semana, adiciono novos exercícios e projetos práticos seguindo um plano
 
 ## 📌 Estrutura
 - **etapa1_fundamentos/** → Python, Estatística, SQL e primeiros projetos.
+  - semana1_python_basico/
+    - exercicios.py
+    - projeto_media_mediana_moda.py
 - **datasets/** → Conjuntos de dados utilizados nos notebooks e scripts.
 
 ## 📊 Tecnologias utilizadas
