@@ -8,7 +8,24 @@ A cada semana, adiciono novos exercícios e projetos práticos seguindo um plano
   - semana1_python_basico/
     - exercicios.py
     - projeto_media_mediana_moda.py
-  
+  - semana2_python_intermediario/
+    - exercicios.py
+    - projeto_analise_texto.py
+  - semana3_numpy_pandas/
+    - exercicios.ipynb
+    - projeto_exploracao_dataset.ipynb
+  - semana4_visualizacao/
+    - projeto_graficos_dataset.ipynb
+  - semana5_estatistica_descritiva/
+    - relatorio_estatistico.ipynb
+  - semana6_probabilidade/
+    - projeto_simulacao_moedas.ipynb
+  - semana7_sql_basico/
+    - queries.sql
+    - projeto_banco_alunos.py
+  - semana8_sql_intermediario/
+    - queries.sql
+    - projeto_vendas_sql_python.ipynb
 - **datasets/** → Conjuntos de dados utilizados nos notebooks e scripts.
 
 ## 📊 Tecnologias utilizadas
