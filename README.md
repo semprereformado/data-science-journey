@@ -32,7 +32,6 @@ A cada semana, adiciono novos exercícios e projetos práticos seguindo um plano
 - **.gitignore** → Para ignorar arquivos temporários
 - **requirements.txt** → Lista de bibliotecas Python usadas
 - **README.md** → Apresentação do repositório
-- 
 
 ## 📊 Tecnologias utilizadas
 - Python (Pandas, NumPy, Matplotlib, Seaborn)
