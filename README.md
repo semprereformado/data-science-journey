@@ -8,6 +8,7 @@ A cada semana, adiciono novos exercícios e projetos práticos seguindo um plano
   - semana1_python_basico/
     - exercicios.py
     - projeto_media_mediana_moda.py
+  
 - **datasets/** → Conjuntos de dados utilizados nos notebooks e scripts.
 
 ## 📊 Tecnologias utilizadas
