@@ -27,6 +27,12 @@ A cada semana, adiciono novos exercícios e projetos práticos seguindo um plano
     - queries.sql
     - projeto_vendas_sql_python.ipynb
 - **datasets/** → Conjuntos de dados utilizados nos notebooks e scripts.
+  - Aqui colocamos os conjuntos de dados usados (ex.: vendas.csv, alunos.csv)
+
+- **.gitignore** → Para ignorar arquivos temporários
+- **requirements.txt** → Lista de bibliotecas Python usadas
+- **README.md** → Apresentação do repositório
+- 
 
 ## 📊 Tecnologias utilizadas
 - Python (Pandas, NumPy, Matplotlib, Seaborn)
