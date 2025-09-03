@@ -31,7 +31,7 @@ A cada semana, adiciono novos exercícios e projetos práticos seguindo um plano
   - Aqui colocamos os conjuntos de dados usados (ex.: vendas.csv, alunos.csv)
 - **.gitignore** → Para ignorar arquivos temporários
 - **requirements.txt** → Esse arquivo serve para listar as bibliotecas que meu projeto precisa (ainda vou descobrir). Assim, se alguém (ou eu mesmo) clonar o repositório, bastar rodar: *$ pip install -r requirements.txt* e todas as dependências serão instaladas.
-- **README.md** → Apresentação do repositório
+- **README.md** → Apresentação do repositório (esse que você está lendo)
 
 ## 📊 Tecnologias utilizadas
 - Python (Pandas, NumPy, Matplotlib, Seaborn)
