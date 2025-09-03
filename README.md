@@ -26,6 +26,7 @@ A cada semana, adiciono novos exercícios e projetos práticos seguindo um plano
   - semana8_sql_intermediario/
     - queries.sql
     - projeto_vendas_sql_python.ipynb
+- **etapa2_???/** → ???
 
 - **datasets/** → Conjuntos de dados utilizados nos notebooks e scripts.
   - Aqui colocamos os conjuntos de dados usados (ex.: vendas.csv, alunos.csv)
