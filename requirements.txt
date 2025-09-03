@@ -1,0 +1,16 @@
+# Bibliotecas essenciais de manipulação de dados
+numpy
+pandas
+
+# Visualização de dados
+matplotlib
+seaborn
+
+# Notebooks interativos
+jupyter
+
+# Para conexão com bancos de dados SQL
+sqlalchemy
+
+# Para prática com SQLite (banco leve e portátil)
+sqlite-utils
