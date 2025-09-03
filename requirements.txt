@@ -1,16 +1,22 @@
 # Bibliotecas essenciais de manipulação de dados
+# numpy: base para cálculos numéricos 
 numpy
+# pandas: manipulação de dados (tabelas, datasets = conjunto de dados)
 pandas
 
 # Visualização de dados
+# ambos servem para gráficos e visualização de dados
 matplotlib
 seaborn
 
 # Notebooks interativos
+# jupyter: rodar e documentar notebooks
 jupyter
 
 # Para conexão com bancos de dados SQL
+# sqlalchemy: interface Python ↔ SQL
 sqlalchemy
 
 # Para prática com SQLite (banco leve e portátil)
+# sqlite-utils: fácil para brincar com banco de dados local (leve e portátil).
 sqlite-utils
