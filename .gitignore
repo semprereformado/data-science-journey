@@ -1,0 +1,37 @@
+# --- Arquivos e pastas do Python ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.env
+venv/
+ENV/
+env/
+
+# --- Jupyter Notebook ---
+.ipynb_checkpoints
+*.ipynb~ 
+
+# --- Dados temporários ---
+*.csv
+*.tsv
+*.xls
+*.xlsx
+*.json
+*.parquet
+*.db
+*.sqlite
+*.log
+
+# (Dica: mantenha os datasets reais na pasta /datasets e só adicione os que quiser versionar)
+
+# --- IDEs e editores ---
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# --- Sistema operacional ---
+.DS_Store
+Thumbs.db
