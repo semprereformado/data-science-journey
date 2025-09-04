@@ -1,4 +1,4 @@
-# 🚀 Data Science Journey
+# 🚀 Jornada em Ciência de Dados
 
 Este repositório documenta minha jornada de aprendizado em **Ciência de Dados**, do zero até níveis avançados.  
 A cada semana, adiciono novos exercícios e projetos práticos seguindo um plano estruturado de estudos.
@@ -44,8 +44,10 @@ A cada semana, adiciono novos exercícios e projetos práticos seguindo um plano
 Desenvolver habilidades sólidas em **Análise de Dados e Ciência de Dados**, com prática contínua e portfólio aberto.
 
 ---
-*“Aprender é um processo, praticar é a chave.”*
 
+*“E Deus os abençoou e lhes disse: Sede fecundos, multiplicai-vos, enchei a terra e sujeitai-a; dominai sobre os peixes do mar, sobre as aves dos céus e sobre todo animal que rasteja pela terra.” Gn 1.28 (ARA)*
+
+---
 ## Mas, ...
 
 ## 🔎 O que é Ciência de Dados?
